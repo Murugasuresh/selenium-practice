@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-05-30T14:59:23 IST" name="Test Suite" finished-at="2021-05-30T14:59:24 IST" duration-ms="361">
+    <groups>
+    </groups>
+    <test started-at="2021-05-30T14:59:23 IST" name="Test Cases" finished-at="2021-05-30T14:59:24 IST" duration-ms="361">
+      <class name="testNG.sampletestcase">
+        <test-method signature="fourthtestcase()[pri:0, instance:testNG.sampletestcase@197d671]" started-at="2021-05-30T14:59:23 IST" name="fourthtestcase" finished-at="2021-05-30T14:59:23 IST" duration-ms="23" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fourthtestcase -->
+        <test-method signature="firsttestcase()[pri:0, instance:testNG.sampletestcase@197d671]" started-at="2021-05-30T14:59:23 IST" name="firsttestcase" finished-at="2021-05-30T14:59:23 IST" duration-ms="19" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- firsttestcase -->
+        <test-method signature="secondtestcase()[pri:0, instance:testNG.sampletestcase@197d671]" started-at="2021-05-30T14:59:24 IST" name="secondtestcase" finished-at="2021-05-30T14:59:24 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- secondtestcase -->
+        <test-method signature="thirdtestcase()[pri:0, instance:testNG.sampletestcase@197d671]" started-at="2021-05-30T14:59:24 IST" name="thirdtestcase" finished-at="2021-05-30T14:59:24 IST" duration-ms="9" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- thirdtestcase -->
+      </class> <!-- testNG.sampletestcase -->
+    </test> <!-- Test Cases -->
+  </suite> <!-- Test Suite -->
+</testng-results>

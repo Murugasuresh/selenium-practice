@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name = "Test Suite" verbose="2" parallel="methods" thread-count="2">
+ <listeners>
+    <listener class-name="testNG.listenersexample" />   
+  </listeners>
+  <test name = "Test Cases">
+<!-- <parameter name="Name" value="RAM"/> -->
+<!--   <groups>
+  <run>
+  <include name = "Moto"></include>
+  <include name = "Vivo"></include>
+  </run>
+  </groups> -->
+    <classes>
+<!--        <class name="testNG.DepedenciesManagment" />
+       <class name="testNG.DriveACar" />
+       <class name="testNG.sampletestcase" />
+       <class name="testNG.SuiteExample" /> -->
+       <class name="testNG.sampletestcase" />
+    </classes>
+  </test>
+</suite>
